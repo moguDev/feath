@@ -165,4 +165,9 @@
 
 
 ## 画面遷移図
-https://www.figma.com/design/DF57oqsPaCOvOaP7YbcDvp/flully%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3---%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=c3k4g7U7PIznQGAS-1
+[Figma](https://www.figma.com/design/DF57oqsPaCOvOaP7YbcDvp/flully%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3---%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=c3k4g7U7PIznQGAS-1)
+
+## ER図
+[flully - ER図](https://dbdiagram.io/d/flully-ER%E5%9B%B3-671a79aa97a66db9a32b8f5f)
+
+<img src="https://gyazo.com/b0f3fbf007320f78c1b60c1aa50cb9f6.png" width="500px" />
