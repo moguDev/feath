@@ -1,0 +1,30 @@
+services:
+  db:
+    container_name: flully-db
+    image: postgres:16.0
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DATABASE=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_ROOT_PASSWORD=root
+  api:
+    container_name: flully-api
+    build:
+      context: ./back
+    command: bash -c "rails s -b '0.0.0.0'"
+    volumes:
+      - ./back:/usr/src/app
+    ports:
+      - 3000:3000
+    depends_on:
+      - db
+    tty: true
+    stdin_open: true
+volumes:
+  pg-data:
+  bin:
+    driver: local

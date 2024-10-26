@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/moguDev/flully-front
+[submodule "back"]
+	path = back
+	url = git@github.com:moguDev/flully-back.git
