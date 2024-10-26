@@ -1,4 +1,4 @@
-# flully（ふらり） - 迷子ゼロへ、一歩づつ
+# flully（ふらり） - まいごゼロへ、一歩づつ
 
 ## ■ サービス概要
 
@@ -170,4 +170,4 @@
 ## ER図
 [flully - ER図](https://dbdiagram.io/d/flully-ER%E5%9B%B3-671a79aa97a66db9a32b8f5f)
 
-<img src="https://gyazo.com/b0f3fbf007320f78c1b60c1aa50cb9f6.png" width="500px" />
+<img src="https://gyazo.com/a6e077f785ae8d2502ee84a467d10ff5.png" width="500px" />
